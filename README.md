@@ -18,6 +18,9 @@
 - CSS
 - JavaScript
 
+## Онлайн демо
+
+🔗 [1r1shmann.github.io/animated-8march-card](https://1r1shmann.github.io/animated-8march-card "Отрыть сайт")
 
 # Interactive 8 March Greeting Card 🌷
 
@@ -38,3 +41,7 @@ When the user clicks the **"Get Greeting"** button:
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+
+🔗 [1r1shmann.github.io/animated-8march-card](https://1r1shmann.github.io/animated-8march-card "View site")
